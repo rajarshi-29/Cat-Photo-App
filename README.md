@@ -2,6 +2,8 @@
 
 CatPhotoApp is a simple, interactive web application dedicated to cat enthusiasts. Built using HTML5, it showcases cat photos, interesting facts about cats, and includes a user-friendly form for cat owners to share information about their feline friends.
 
+---
+
 ## Features
 
 - **Cat Photo Gallery**: Displays adorable cat images with links to more photos.
@@ -11,6 +13,8 @@ CatPhotoApp is a simple, interactive web application dedicated to cat enthusiast
   - Cat's personality traits
   - Cat photo URL
 
+---
+
 ## Structure
 
 The application is structured into three main sections:
@@ -19,32 +23,53 @@ The application is structured into three main sections:
 2. **Cat Lists**: Presents lists of things cats love and hate, with illustrative images.
 3. **Cat Form**: Provides an interactive form for users to input data about their cats.
 
+---
+
 ## How to Use
 
-1. Open the `index.html` file in a web browser.
+1. Open the live site in a web browser: [CatPhotoApp Live](https://rajarshi-29.github.io/Cat-Photo-App/).
 2. Browse through the cat photos and facts.
 3. Use the form at the bottom of the page to share information about your cat:
-   - Select whether your cat is indoor or outdoor
-   - Choose your cat's personality traits
-   - Enter a URL for your cat's photo
-   - Click "Submit" to send the information
+   - Select whether your cat is indoor or outdoor.
+   - Choose your cat's personality traits.
+   - Enter a URL for your cat's photo.
+   - Click "Submit" to send the information.
+
+---
 
 ## Technologies Used
 
 - **HTML5**: Provides the structure and content of the webpage.
 
-## Deployment
+## How to Deploy Locally
 
-To deploy this project:
+1. Clone this repository:
+```bash
+git clone https://github.com/rajarshi-29/Cat-Photo-App.git
+```
+2. Navigate to the project directory:
+```bash
+cd Cat-Photo-App
+```
+3. Open the `index.html` file in your browser:
+```bash
+open index.html
+```
 
-1. Copy the HTML file to your web server.
-2. Ensure the server is configured to serve HTML files.
-3. Access the file through your web browser.
+---
+
+## Live Demo
+
+The project is live at: [https://rajarshi-29.github.io/Cat-Photo-App/](https://rajarshi-29.github.io/Cat-Photo-App/)
+
+---
 
 ## Credits
 
 This project is part of the freeCodeCamp curriculum and is free to use and modify. No copyright restrictions apply.
 
+---
+
 ## Contributing
 
-As a learning project, direct contributions are not sought. However, feedback and suggestions for improvement are always welcome.
+As this is a learning project, contributions are not actively sought. However, feedback and suggestions for improvement are always welcome.
